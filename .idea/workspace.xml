@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40493b60-807b-4b36-8357-cfb14155bf6c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third_parties/linkedin.py" beforeDir="false" afterPath="$PROJECT_DIR$/third_parties/linkedin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third_parties/twitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/third_parties/twitter.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RWK2vdUL1T0MeNUYwoRkDQ7gAT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/martins/Documents/AWS BITLOGIC/LangChain/ice_breaker",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/agents" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.runserver">
+    <configuration name="ice_breaker" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ice_breaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OPENAI_API_KEY" value="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" />
+        <env name="PROXYCURL_API_KEY" value="x28gnLpxv1MR7x4nAUSCzQ" />
+        <env name="SERPAPI_API_KEY" value="eb6153e2e35e55a3d59067b562c932dde87751012ea2a5a061f94932ae0872c2" />
+        <env name="TWITTER_ACCESS_SECRET" value="k1hqpmMUa7m1zwqPdmyO9tt9bYgo8MsjIpmyxxN5az9uH" />
+        <env name="TWITTER_ACCESS_TOKEN" value="1671624054732718088-PoUJuYCCA71mbyf54tqPEeqDqFOgIb" />
+        <env name="TWITTER_API_KEY" value="jhPHtd4qTlL5qruSG0Q2EhKi0" />
+        <env name="TWITTER_API_SECRET" value="8HHxZcsug0PiKJ9KTIuCQucxwZ0XLiIxptIU8YDfrfb9FW9OIQ" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/ice_breaker-Mm_RdZMz/bin/python" />
+      <option name="SDK_NAME" value="Pipenv (ice_breaker)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ice_breaker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runserver" type="PythonConfigurationType" factoryName="Python">
+      <module name="ice_breaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OPENAI_API_KEY" value="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" />
+        <env name="PROXYCURL_API_KEY" value="x28gnLpxv1MR7x4nAUSCzQ" />
+        <env name="SERPAPI_API_KEY" value="eb6153e2e35e55a3d59067b562c932dde87751012ea2a5a061f94932ae0872c2" />
+        <env name="TWITTER_ACCESS_SECRET" value="k1hqpmMUa7m1zwqPdmyO9tt9bYgo8MsjIpmyxxN5az9uH" />
+        <env name="TWITTER_ACCESS_TOKEN" value="1671624054732718088-PoUJuYCCA71mbyf54tqPEeqDqFOgIb" />
+        <env name="TWITTER_API_KEY" value="jhPHtd4qTlL5qruSG0Q2EhKi0" />
+        <env name="TWITTER_API_SECRET" value="8HHxZcsug0PiKJ9KTIuCQucxwZ0XLiIxptIU8YDfrfb9FW9OIQ" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/ice_breaker-Mm_RdZMz/bin/python" />
+      <option name="SDK_NAME" value="Pipenv (ice_breaker)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ice_breaker" />
+      <item itemvalue="Python.runserver" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40493b60-807b-4b36-8357-cfb14155bf6c" name="Changes" comment="" />
+      <created>1687360193909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687360193909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/share/virtualenvs/ice_breaker-Mm_RdZMz/lib/python3.10/site-packages/langchain/utilities/serpapi.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="data['background_cover_image_url']" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
